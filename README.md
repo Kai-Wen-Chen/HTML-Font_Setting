@@ -15,4 +15,4 @@ ffffff are six hexadecimal numbers because all colors consist of red, green and 
 
 Therefore, ff0000 means red, 00ff00 means green, 0000ff means blue
 
-< i >< /i > make the font italic, so as < b > means bold, < u > means underline
+< i >< /i > make the font italic, < b > means bold, and < u > means underline
